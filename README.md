@@ -25,3 +25,6 @@ SmileVid helps creators upload, edit, and share videos easily, built with Next.j
 ## License
 
 This project is licensed under the MIT License.
+## Screenshot
+
+![SmileVid Screenshot](smilevid-screenshot.png)
