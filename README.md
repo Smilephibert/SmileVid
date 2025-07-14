@@ -1,3 +1,6 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Smilephibert/SmileVid)
+
+
 # SmileVid
 
 SmileVid helps creators upload, edit, and share videos easily, built with Next.js and Tailwind CSS.
